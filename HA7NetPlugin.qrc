@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/trafficlight_green.png</file>
+        <file>images/trafficlight_off.png</file>
+        <file>images/trafficlight_on.png</file>
+        <file>images/trafficlight_red.png</file>
+        <file>images/trafficlight_red_yellow.png</file>
+        <file>images/trafficlight_yellow.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+    </qresource>
+</RCC>
